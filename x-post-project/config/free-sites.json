@@ -1,0 +1,25 @@
+{
+  "free_sites": [
+    {
+      "name": "Unsplash",
+      "url": "https://unsplash.com",
+      "search_url": "https://unsplash.com/s/photos/",
+      "free": true,
+      "commercial_use": true
+    },
+    {
+      "name": "Pixabay",
+      "url": "https://pixabay.com",
+      "search_url": "https://pixabay.com/images/search/",
+      "free": true,
+      "commercial_use": true
+    },
+    {
+      "name": "Pexels",
+      "url": "https://pexels.com",
+      "search_url": "https://pexels.com/search/",
+      "free": true,
+      "commercial_use": true
+    }
+  ]
+}

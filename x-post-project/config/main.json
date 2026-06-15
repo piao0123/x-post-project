@@ -1,0 +1,30 @@
+{
+  "workflow": {
+    "name": "X Post Creation and Publishing Workflow",
+    "version": "2.0.0",
+    "created_at": "2026-06-11"
+  },
+  "image_sources": {
+    "pexels": {
+      "enabled": true,
+      "priority": 1
+    },
+    "free_sites": {
+      "enabled": true,
+      "priority": 2
+    },
+    "custom_images": {
+      "enabled": true,
+      "priority": 3
+    }
+  },
+  "defaults": {
+    "country": "united-states",
+    "language": "en",
+    "category_count": 5,
+    "post_count": 3,
+    "image_orientation": "landscape",
+    "char_limit_normal": 280,
+    "char_limit_premium": 10000
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "selected_at": "2026-06-11T10:17:15Z",
+  "selected_categories": [
+    {
+      "id": "f1",
+      "name": "Formula 1",
+      "name_cn": "F1",
+      "keywords": [
+        "F1",
+        "Formula 1",
+        "MonacoGP",
+        "Hamilton",
+        "Verstappen"
+      ],
+      "search_query": "F1 OR Formula 1 OR MonacoGP",
+      "weight": 5
+    },
+    {
+      "id": "tech",
+      "name": "Technology",
+      "name_cn": "科技",
+      "keywords": [
+        "AI",
+        "technology",
+        "innovation",
+        "startup",
+        "gadget"
+      ],
+      "search_query": "AI OR technology OR innovation",
+      "weight": 4
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "name_cn": "体育",
+      "keywords": [
+        "NBA",
+        "NFL",
+        "soccer",
+        "tennis",
+        "Olympics"
+      ],
+      "search_query": "NBA OR NFL OR soccer",
+      "weight": 4
+    },
+    {
+      "id": "business",
+      "name": "Business",
+      "name_cn": "商业",
+      "keywords": [
+        "startup",
+        "investing",
+        "economy",
+        "market",
+        "finance"
+      ],
+      "search_query": "startup OR investing OR economy",
+      "weight": 3
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "name_cn": "科学",
+      "keywords": [
+        "space",
+        "NASA",
+        "physics",
+        "climate",
+        "research"
+      ],
+      "search_query": "space OR NASA OR physics",
+      "weight": 3
+    }
+  ]
+}

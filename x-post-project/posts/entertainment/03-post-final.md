@@ -1,0 +1,2 @@
+
+Prince Pictures on X: "#Saanjikkava - a cute love melody from the movie #KAARI in the voice of @sidsriram is on its way and will arrive by 2moro @ 06:00 pm @SasikumarDir @parv_1998 @HemanthM_Dir @Prince_Pictures @immancomposer @lakku76 @lalithanandpoet @Kirubakaran_AKR @sarathni

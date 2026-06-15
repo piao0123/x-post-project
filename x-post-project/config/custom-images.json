@@ -1,0 +1,9 @@
+{
+  "custom_images": {
+    "enabled": true,
+    "allow_url": true,
+    "allow_local_path": true,
+    "supported_formats": ["jpg", "jpeg", "png", "gif", "webp"],
+    "max_file_size_mb": 10
+  }
+}

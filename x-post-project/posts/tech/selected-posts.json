@@ -1,0 +1,41 @@
+{
+  "selected_at": "2026-06-11T10:17:59.495568",
+  "total_posts": 6,
+  "selected_count": 3,
+  "top_n": 3,
+  "posts": [
+    {
+      "id": "exa_64",
+      "author": "",
+      "content": "Search for a word (AI) but not words containing this phrase - X API v2",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "created_at": "",
+      "url": "https://devcommunity.x.com/t/search-for-a-word-ai-but-not-words-containing-this-phrase/141899",
+      "media": []
+    },
+    {
+      "id": "exa_80",
+      "author": "",
+      "content": "X tests AI labeling to combat the rise of generated content | Social Media Today",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "created_at": "",
+      "url": "https://www.socialmediatoday.com/news/x-formerly-twitter-tests-ai-content-labels/812913/",
+      "media": []
+    },
+    {
+      "id": "exa_113",
+      "author": "",
+      "content": "X incorporates automatic translation with Grok and launches a new AI-powered photo editor",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "created_at": "",
+      "url": "https://en.actualidadiphone.com/x-incorporates-automatic-translation-with-grok-and-launches-a-new-AI-photo-editor/",
+      "media": []
+    }
+  ]
+}

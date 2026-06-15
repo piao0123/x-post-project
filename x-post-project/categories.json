@@ -1,0 +1,151 @@
+{
+  "fetched_at": "2026-05-26T09:33:29.706692",
+  "source": "predefined",
+  "language": "en",
+  "categories": [
+    {
+      "id": "tech",
+      "name": "Technology",
+      "name_cn": "科技",
+      "keywords": [
+        "AI",
+        "tech",
+        "startup",
+        "coding",
+        "programming",
+        "software",
+        "hardware",
+        "gadget",
+        "innovation",
+        "digital"
+      ],
+      "description": "Artificial Intelligence, Software, Hardware, Startups"
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "name_cn": "体育",
+      "keywords": [
+        "NBA",
+        "NFL",
+        "soccer",
+        "football",
+        "basketball",
+        "tennis",
+        "MMA",
+        "boxing",
+        "Olympics",
+        "championship"
+      ],
+      "description": "NBA, Football, Soccer, Tennis, MMA"
+    },
+    {
+      "id": "entertainment",
+      "name": "Entertainment",
+      "name_cn": "娱乐",
+      "keywords": [
+        "movie",
+        "music",
+        "celebrity",
+        "Hollywood",
+        "Netflix",
+        "anime",
+        "gaming",
+        "streamer",
+        "concert",
+        "album"
+      ],
+      "description": "Movies, Music, Celebrity, Gaming, Anime"
+    },
+    {
+      "id": "lifestyle",
+      "name": "Lifestyle",
+      "name_cn": "生活",
+      "keywords": [
+        "travel",
+        "food",
+        "health",
+        "fitness",
+        "fashion",
+        "home",
+        "garden",
+        "cooking",
+        "wellness",
+        "mindfulness"
+      ],
+      "description": "Travel, Food, Health, Fashion, Wellness"
+    },
+    {
+      "id": "business",
+      "name": "Business & Finance",
+      "name_cn": "商业财经",
+      "keywords": [
+        "stock",
+        "crypto",
+        "bitcoin",
+        "investing",
+        "economy",
+        "market",
+        "startup",
+        "entrepreneur",
+        "finance",
+        "trading"
+      ],
+      "description": "Stock Market, Crypto, Economy, Startups"
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "name_cn": "科学",
+      "keywords": [
+        "space",
+        "NASA",
+        "physics",
+        "biology",
+        "climate",
+        "research",
+        "discovery",
+        "experiment",
+        "laboratory",
+        "journal"
+      ],
+      "description": "Space, Physics, Biology, Climate Research"
+    },
+    {
+      "id": "politics",
+      "name": "Politics",
+      "name_cn": "政治",
+      "keywords": [
+        "election",
+        "congress",
+        "president",
+        "policy",
+        "democrat",
+        "republican",
+        "vote",
+        "campaign",
+        "government",
+        "law"
+      ],
+      "description": "Elections, Policy, Government, Congress"
+    },
+    {
+      "id": "news",
+      "name": "Current News",
+      "name_cn": "时事新闻",
+      "keywords": [
+        "breaking",
+        "headline",
+        "world",
+        "international",
+        "crisis",
+        "report",
+        "journalist",
+        "developing",
+        "exclusive",
+        "update"
+      ],
+      "description": "Breaking News, World Events, Headlines"
+    }
+  ]
+}

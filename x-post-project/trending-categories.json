@@ -1,0 +1,43 @@
+{
+  "fetched_at": "2026-06-11T10:17:47.800468",
+  "source": "xtrends.in",
+  "country": "united-states",
+  "language": "en",
+  "categories": [
+    {
+      "headline": "#MonacoGP",
+      "url": "https://twitter.com/search?q=%23MonacoGP",
+      "category": "trending",
+      "postCount": null,
+      "timeAgo": "just now"
+    },
+    {
+      "headline": "Welker",
+      "url": "https://twitter.com/search?q=Welker",
+      "category": "trending",
+      "postCount": null,
+      "timeAgo": "just now"
+    },
+    {
+      "headline": "Meet the Press",
+      "url": "https://twitter.com/search?q=Meet+the+Press",
+      "category": "trending",
+      "postCount": null,
+      "timeAgo": "just now"
+    },
+    {
+      "headline": "Good Sunday",
+      "url": "https://twitter.com/search?q=Good+Sunday",
+      "category": "trending",
+      "postCount": null,
+      "timeAgo": "just now"
+    },
+    {
+      "headline": "Charles",
+      "url": "https://twitter.com/search?q=Charles",
+      "category": "trending",
+      "postCount": null,
+      "timeAgo": "just now"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Pritam's new track for Cocktail 2 sounds suspiciously like a 1993 Italian song. Half the internet is calling it plagiarism, the other half says it's just sampling. The real question: does it actually sound good?
