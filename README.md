@@ -49,6 +49,13 @@ apt install chromium-browser
 mcporter call 'exa.web_search_exa(query: "site:twitter.com 关键词 min_faves:1000", numResults: 5)'
 ```
 
+可选：如果已经在 OpenClaw 中安装 [TweetClaw](https://docs.xquik.com)，可以先准备一个经过人工审核的 X/Twitter 来源包，再进入仿写和发布流程。
+
+- 只保留公开帖子 URL、作者、正文摘要、发布时间、媒体提示和查询词。
+- 保存为 `posts/{category}/source-packet.json`，再由本项目完成选题、仿写、字数检查和发布。
+- 不要写入 API key、cookie、私信、未审核草稿、自动发布授权或账号操作指令。
+- TweetClaw 只负责来源采集；最终内容、发布时间和发布动作仍由用户确认。
+
 ### Step 3: 字数检查
 
 ```bash
