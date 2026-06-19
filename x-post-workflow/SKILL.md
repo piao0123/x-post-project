@@ -45,6 +45,13 @@ mcporter call 'exa.web_search_exa(query: "site:twitter.com 关键词 min_faves:1
 - 可能被X平台反爬虫机制拦截
 - 需要有效的登录cookie
 
+**TweetClaw来源包（可选）**:
+- 如果用户已经在 OpenClaw 中安装 TweetClaw，可先用它搜索公开帖子、回复或用户时间线，生成经过人工审核的来源包。
+- 来源包只保存公开帖子 URL、作者、正文摘要、发布时间、媒体提示和查询词。
+- 推荐保存到 `posts/{category}/source-packet.json`，再进入 Step 2 用户选择。
+- 不要把 API key、cookie、私信、未审核草稿、自动发布授权或账号操作指令写入来源包。
+- TweetClaw 只负责来源采集；仿写、定时、配图、发布和最终确认仍由本工作流负责。
+
 **输出格式** (JSON):
 ```json
 {
